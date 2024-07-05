@@ -75,6 +75,7 @@ const styles = StyleSheet.create({
   container: {
     flexGrow: 1,
     padding: 16,
+    backgroundColor: "#EDF4F2",
   },
   cartItem: {
     flexDirection: "row",
